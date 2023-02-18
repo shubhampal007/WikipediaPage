@@ -1,0 +1,48 @@
+
+
+  #mainDoc{
+    display: flex;
+    background-color: rgb(236, 236, 228);
+    scroll-behavior: smooth;
+  }
+
+  .button{
+    padding: 10px 50px;
+    background-color:#c8cdc4;
+    border-width: 2px;
+    float: left;
+    transition: 0.5s;
+    width: 225px; 
+    scroll-behavior: smooth;
+    font-size: large;
+    display: block;
+
+
+
+  
+  }
+  .buttonGroup
+  {
+    display:block;
+  }
+  #cpp-hello-world-program{
+    background-color: lightgrey;
+    width: 250px;
+
+  }
+  .button:hover {
+    background-color: #60615f;
+  }
+  .nav-bar-left{
+    display: inline-block;
+    vertical-align: middle;
+
+  }
+  .nav-bar{
+
+    margin: 10px;
+
+  }
+  p{
+    font-size: large;
+  }
